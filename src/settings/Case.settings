@@ -10,9 +10,9 @@
     <caseMergeInLightning>false</caseMergeInLightning>
     <closeCaseThroughStatusChange>false</closeCaseThroughStatusChange>
     <defaultCaseFeedLayoutOn>true</defaultCaseFeedLayoutOn>
-    <defaultCaseOwner>gsaisreeharsha@copadoconsultant.com.production</defaultCaseOwner>
+    <defaultCaseOwner>gsaisreeharsha@copadoconsultant.com.uat</defaultCaseOwner>
     <defaultCaseOwnerType>User</defaultCaseOwnerType>
-    <defaultCaseUser>gsaisreeharsha@copadoconsultant.com.production</defaultCaseUser>
+    <defaultCaseUser>gsaisreeharsha@copadoconsultant.com.uat</defaultCaseUser>
     <emailToCase>
         <enableE2CAttachmentAsFile>true</enableE2CAttachmentAsFile>
         <enableE2CSourceTracking>true</enableE2CSourceTracking>
